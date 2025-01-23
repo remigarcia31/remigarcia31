@@ -50,12 +50,3 @@ I specialize in designing robust data solutions and automating workflows to tran
 ---
 
 ⚡ **Curious and driven**, I am always looking for new exciting projects. Let's talk!
-
-## 📫 **Contactez-moi**
-- **Email** : garcia.remi@protonmail.com
-- **LinkedIn** : [linkedin.com/in/rémi-garcia-31t12r](https://linkedin.com/in/r%C3%A9mi-garcia-31t12r)
-- **GitHub** : [github.com/remigarcia31](https://github.com/remigarcia31)
-
----
-
-⚡ **Curieux et motivé**, je suis toujours à la recherche de nouveaux projets captivants. Parlons-en !
