@@ -1,52 +1,77 @@
-# 👋 Hi, I'm Rémi
+# 👋 Hi, I'm Rémi GARCIA
 
-### 🚀 Data Engineer | Pipeline Architect | Passionate Freelancer
+### 🚀 Data Engineer GCP | Pipeline Architect | Cloud & Big Data Enthusiast
 
-I specialize in designing robust data solutions and automating workflows to transform raw data into actionable insights. With solid expertise in Big Data, Cloud, and DevOps, I am ready to tackle your most ambitious data challenges.
+Passionate about designing and implementing robust, scalable data solutions on the Cloud, particularly GCP. I specialize in building automated data pipelines, optimizing data processing, and transforming raw data into actionable insights using Big Data technologies and DevOps practices. Always eager to tackle ambitious data challenges and learn new technologies.
 
 ---
 
-## 🛠️ **Technical Skills**
+## 🛠️ Technical Skills
 
 ### 💻 Languages & Frameworks:
-- **Python**: PySpark, TensorFlow, Pandas, Scikit-Learn
-- **SQL/NoSQL**: PostgreSQL, MongoDB, Neo4J
-- **Big Data**: Apache Spark, Hadoop, Apache Airflow
-- **Cloud**: Google Cloud Platform (GCP), Amazon Web Services (AWS)
-- **DevOps**: Docker, Terraform, CI/CD, Bash
+- **Python**: Proficient (PySpark, Pandas, TensorFlow, Keras, Scikit-Learn, NumPy)
+- **SQL**: Advanced (across various SGBDs)
+- **Java**: Experienced (especially with Apache Spark)
+- **Bash**: Experienced
 
-### 🛠️ Tools:
-- **ETL**: Talend, dbt
-- **Data Visualization**: Power BI, Qlik Sense, Metabase
-- **Modeling**: UML, BPMN
+### ☁️ Cloud Platforms:
+- **Google Cloud Platform (GCP)**: Extensive Experience (BigQuery, Cloud Storage, Dataproc, Cloud Functions, Cloud Composer, Cloud Build, IAM)
+- **Amazon Web Services (AWS)**: Familiar (Redshift), AWS Academy Data Engineering Certified
+
+### 📊 Big Data & Data Processing:
+- **Apache Spark**: PySpark, Spark SQL, Spark Core (Java)
+- **Apache Hadoop**: Experienced
+- **ETL/ELT**: dbt, Talend, Custom Python pipelines
+- **Orchestration**: Apache Airflow (Cloud Composer)
+- **Data Warehousing**: Google BigQuery, Amazon Redshift
+
+### 🗃️ Databases:
+- **SQL**: PostgreSQL, Oracle, MySQL, SQL Server
+- **NoSQL**: MongoDB, Neo4J
+
+### ⚙️ DevOps & Tools:
+- **Containerization**: Docker
+- **Infrastructure as Code (IaC)**: Terraform
+- **CI/CD**: Git, GitHub Actions, Cloud Build
+- **Data Visualization**: Looker Studio, Qlik Sense, Power BI, Metabase
 - **Project Management**: Agile Methodology (SCRUM)
 
 ---
 
-## 🌟 **Key Projects**
+## 🌟 Key Projects & Experiences
 
-### ✈️ **Aerospace Data Pipeline** (Sopra Steria)
-- **Description**: Developed PySpark pipelines for processing data on the Skywise platform.
-- **Technologies**: PySpark, Qlik Sense, Agile SCRUM
-- **Impact**: Automated data analysis to optimize business decision-making.
+### Data Engineer @ Sopra Steria (for Airbus)
+- **Description**: Developed and optimized data pipelines for Airbus using PySpark on the Skywise platform. Managed data flows from ingestion to visualization (Qlik Sense). Resolved user incidents and participated actively in Agile SCRUM processes.
+- **Technologies**: PySpark, Python, SQL, Skywise, Qlik Sense, Agile
+- **Impact**: Significantly reduced data processing time (by 60%) and improved data availability for over 500 users.
 
-### 🛍️ **Retail Analysis** 
-- **Description**: Designed a data pipeline to analyze retail flows and anticipate trends.
-- **Technologies**: Python, Apache Airflow, PostgreSQL, Docker
-- **Impact**: Optimized customer behavior analysis and consumption trends to enhance sales strategies.
+### SkyLyticsTLS: End-to-End Aeronautical Data Platform (GCP)
+- **Description**: Developed a complete data platform on GCP to ingest, process, and analyze public ADS-B flight data using Cloud Functions, PySpark on Dataproc, BigQuery, and Cloud Composer for orchestration. Managed infrastructure with Terraform and implemented CI/CD with Cloud Build.
+- **Technologies**: GCP (Functions, Storage, Dataproc, BigQuery, Composer, Scheduler, Build), Python, PySpark, SQL, Airflow, Terraform, Git, Parquet, JSON, Hive, Looker Studio
+- **Impact**: Provided reliable indicators and structured data on air traffic via BigQuery for analysis and visualization. Demonstrated full-stack data engineering capabilities on GCP.
 
-### 📚 **Data Pipeline Setup** (Tutorial)
-- **Description**: Designed and implemented data pipelines for various use cases: data stream processing and retail data analysis. Created a tutorial to help developers build their own pipelines by sharing best practices and key steps. Developed CI/CD processes to automate deployments and ensure pipeline quality.
-- **Technologies**: Python, SQL, Apache Airflow, Docker, GCP, dbt, Metabase, Terraform, Bash
-- **Impact**: Helps developers set up robust, efficient, and maintainable pipelines.
+### Simulation Migration Aéro: Legacy System Migration Simulation (GCP)
+- **Description**: Proactively developed a project simulating the migration of a legacy Oracle/PLSQL system to GCP. Implemented a Java/Spark pipeline on Dataproc Serverless to process aeronautical data (CSV from GCS) and output results to BigQuery. Managed infrastructure via Terraform. Included unit testing (JUnit) and documentation.
+- **Technologies**: GCP (Cloud Storage, Dataproc Serverless, BigQuery), Java, Apache Spark, SQL, Terraform, Maven, Git, JUnit 5
+- **Impact**: Demonstrated capability to migrate legacy logic to a modern GCP stack using Java/Spark and IaC best practices.
+
+### Retail FlowInsight: Retail ETL & Analytics Pipeline (GCP)
+- **Description**: Created a comprehensive ETL process to analyze retail sales, optimize performance, and understand customer behavior. Automated data ingestion, transformation (Python/Pandas, dbt), and loading into a BigQuery data warehouse. Implemented data quality checks and built dashboards with Metabase.
+- **Technologies**: Python (Pandas), ETL, GCP (BigQuery), dbt, SQL, Apache Airflow, Metabase, Docker, Terraform
+- **Impact**: Centralized data for rapid analysis, reduced processing time significantly, improved data reliability, and provided actionable insights via an intuitive dashboard.
+
+### PipeLearnGCP: Educational GCP ETL Pipeline Tutorial
+- **Description**: Created a detailed tutorial explaining how to set up an ETL pipeline on GCP using Cloud Storage, BigQuery, Python, Airflow, Docker, and Terraform. Shared best practices and provided comprehensive documentation on GitHub.
+- **Technologies**: GCP (Cloud Storage, BigQuery), ETL, Python, Apache Airflow, Docker, Terraform, GitHub
+- **Impact**: Serves as a practical guide for other professionals implementing data pipelines on GCP.
 
 ---
 
-## 📫 **Contact Me**
+## 📫 Contact Me
 - **Email**: garcia.remi@protonmail.com
-- **LinkedIn**: [linkedin.com/in/rémi-garcia-31t12r](https://linkedin.com/in/r%C3%A9mi-garcia-31t12r)
+- **LinkedIn**: [linkedin.com/in/remi-garcia-31t12r](https://linkedin.com/in/remi-garcia-31t12r)
 - **GitHub**: [github.com/remigarcia31](https://github.com/remigarcia31)
 
 ---
 
-⚡ **Curious and driven**, I am always looking for new exciting projects. Let's talk!
+⚡ **Proactive, adaptable, and analytical**, I thrive in collaborative environments and am always looking for new challenges and opportunities to learn and apply my skills in Data Engineering. Let's connect!
